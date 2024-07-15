@@ -16,7 +16,7 @@ a {
     color: black;
 }
 
-li {
+#recipe-list > ul > li {
     margin: 10px 10px 40px 10px;
     font-size: 24px;
     font-weight: 400;
